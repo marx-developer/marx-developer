@@ -12,7 +12,7 @@ Bem vindo ao meu perfil do GitHub!  <br>
 - 🎯 Sempre em busca do constante aprendizado e crescimento
 
 ## 🛠️ Habilidades
-Aqui estão algumas das habilidades que eu tenho conhecimentos:
+Aqui estão algumas das linguagens que eu tenho conhecimentos:
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marx-softwaredeveloper&layout=compact"/>
 </div>
