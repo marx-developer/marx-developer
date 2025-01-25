@@ -19,9 +19,12 @@ Aqui estão algumas das linguagens que eu tenho conhecimentos:
 
 
 
-
 ## 🔥Principais Projetos 
 Dê uma olhada em alguns dos meus projetos: <br><br>
+
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=marx-developer=github-readme-stats)](https://github.com/marx-developer/my-portfolio"/>
+</div>
 
 ## 📫 Entre em Contato
 Estou sempre aberto a novas conexões e colaborações. Se você quiser conversar ou trabalhar em algo juntos, sinta-se à vontade para me contatar:
