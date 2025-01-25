@@ -14,8 +14,9 @@ Bem vindo ao meu perfil do GitHub!  <br>
 ## 🛠️ Habilidades
 Aqui estão algumas das linguagens que eu tenho conhecimentos:
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marx-softwaredeveloper&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marx-developer&layout=compact"/>
 </div>
+
 
 
 
